@@ -1,2 +1,2 @@
-# precurs-henrry
+# prepcouse-henrry
 repositorio de pruebas numero 2 de henrry 
